@@ -60,3 +60,6 @@ The project follows a **Layered Architecture** to ensure scalability:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Hrustyaa/MedScan-AI.git](https://github.com/Hrustyaa/MedScan-AI.git)
+2. Install dependencies:
+   ```bash
+   flutter pub get
