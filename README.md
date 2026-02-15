@@ -1,16 +1,21 @@
-# medscan_ai
+# MedScan AI 🩺
 
-A new Flutter project.
+**MedScan AI** is an intelligent mobile health assistant developed for the **Infomatrix 2026** competition. It combines Artificial Intelligence with real-time monitoring to provide accessible healthcare insights.
 
-## Getting Started
+## 🚀 Key Features
+* **AI Medical Consultant:** Chat with Gemini 2.5 Flash for symptom analysis and health advice.
+* **Pulse Monitor:** Real-time heart rate detection using the phone's camera (PPG technology).
+* **Medicine Manager:** Keep track of your medications with smart reminders.
+* **Emergency Guide:** First aid instructions and a CPR metronome.
+* **Multi-language Support:** English, Russian, and Kazakh.
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+* **Framework:** Flutter (Dart)
+* **AI Model:** Google Gemini 2.5 Flash API
+* **State Management:** Provider / Bloc
+* **Database:** Firebase (Auth & Firestore)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Hrustyaa/MedScan-AI.git](https://github.com/Hrustyaa/MedScan-AI.git)
