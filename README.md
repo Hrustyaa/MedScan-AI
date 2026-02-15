@@ -63,3 +63,15 @@ The project follows a **Layered Architecture** to ensure scalability:
 2. Install dependencies:
    ```bash
    flutter pub get
+3. Configure API Key:
+   For security reasons, the API key is not included in the repository. You must create a new file lib/api_config.dart and add your Gemini API key (or replace it directly in lib/services/ai_service.dart):
+   ```bash
+   class ApiConfig {
+     static const String geminiApiKey = 'YOUR_API_KEY_HERE';
+   }
+4. Run the app:
+   ```bash
+   flutter run
+
+### Disclaimer
+   Important: MedScan AI is an educational project developed for the Infomatrix competition. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of a physician or other qualified health provider with any questions you       may have regarding a medical condition. The AI-generated responses are for informational purposes only.
