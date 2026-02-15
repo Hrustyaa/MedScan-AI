@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59949023273",
+    "project_id": "medscanai-262dd",
+    "storage_bucket": "medscanai-262dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59949023273:android:2e90c8f5071e68ac769c38",
+        "android_client_info": {
+          "package_name": "com.example.medscan_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHmvYKjYcTPmNaq9Ms9UvEW5DV50ADAE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
